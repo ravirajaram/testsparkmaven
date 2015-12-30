@@ -16,5 +16,5 @@
             <artifactId>spark-core</artifactId>
             <version>2.3</version>
         </dependency>
-    </dependencies>
+    </dependencies> 
 </project>
